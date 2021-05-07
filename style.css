@@ -3,8 +3,8 @@ html{
 }
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 32px;
+    font-size: 40px;
     padding: 32px;
     margin: 30px;
-    border: 20px solid black;
+    border: 10px solid black;
 }
